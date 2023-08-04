@@ -1,2 +1,2 @@
-# 3D-RPG
+# Corgi Adventure
 Learning Demo
