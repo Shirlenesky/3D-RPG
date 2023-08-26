@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8e4389479fd834a82b8bf4fc761b1a, type: 3}
+  m_Name: Hero Complete
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - ID: Piece01
+    image: {fileID: 0}
+    text: Great! This is for you
+    quest: {fileID: 11400000, guid: 48bd032f669951c4093099184323aaa2, type: 2}
+    options:
+    - text: Thanks
+      targetID: 
+      takeQuest: 1

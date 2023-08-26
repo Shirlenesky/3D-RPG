@@ -1,0 +1,4 @@
+repository "3DRPG@shirlenesky@cloud"
+  path "/"
+    br "/main"
+    co "/main"

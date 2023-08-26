@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44a732e91b265184aaa4e90a19c08fdb, type: 3}
+  m_Name: Hero Quest
+  m_EditorClassIdentifier: 
+  questName: "\u6D88\u706D\u654C\u4EBA"
+  questInfo: "\u8FD9\u7247\u5927\u9646\u4E0A\u654C\u4EBA\u592A\u591A\u4E86\uFF01\u53EF\u4EE5\u5E2E\u6211\u6D88\u706D\u4E00\u53EA\u53F2\u83B1\u59C6\u5417\uFF1F"
+  isStarted: 0
+  isComplete: 0
+  isFinished: 0
+  questRequires:
+  - name: Slime
+    requireAmount: 1
+    currAmount: 0
+  rewards:
+  - itemData: {fileID: 11400000, guid: 373dec24dcfe7d441b5800ed33b3d7cd, type: 2}
+    amount: 1
+  - itemData: {fileID: 11400000, guid: d212bdf38e16d174e819dfe1f38dc576, type: 2}
+    amount: 1

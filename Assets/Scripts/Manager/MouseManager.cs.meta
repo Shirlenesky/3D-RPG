@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 52fc86ac26319bc45baefbc0cf025cbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - point: {fileID: 2800000, guid: 76a963585de289345bb8f67aeb86746c, type: 3}
+  - doorway: {fileID: 2800000, guid: c1093168418b2064c890468bd4e944d7, type: 3}
+  - attack: {fileID: 2800000, guid: d031873766fb96c49b5b5c1b637bd74f, type: 3}
+  - target: {fileID: 2800000, guid: 5cfa243cc671df144bc37a2b5dd8b99a, type: 3}
+  - arrow: {fileID: 2800000, guid: e528a637a1fe5154caec0d290b7c0870, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

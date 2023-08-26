@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da8e4389479fd834a82b8bf4fc761b1a, type: 3}
+  m_Name: Hero Progress
+  m_EditorClassIdentifier: 
+  dialogPieces:
+  - ID: piece
+    image: {fileID: 0}
+    text: "\u52A0\u6CB9"
+    quest: {fileID: 0}
+    options: []
